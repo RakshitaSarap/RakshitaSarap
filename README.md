@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **202103042.rakshitasrr@student.xavier.ac.in**
 
-- 📄 Know about my experiences [file:///C:/Users/Rakshita%20R.%20Sarap/Downloads/Rakshita_Sarap.pdf](file:///C:/Users/Rakshita%20R.%20Sarap/Downloads/Rakshita_Sarap.pdf)
+- 📄 Know about my experiences [Rakshita_Sarap.pdf](file:///C:/Users/Rakshita%20R.%20Sarap/Downloads/Rakshita_Sarap.pdf)
 
 - ⚡ Fun fact **I think I am very friendly and a person you should get to know**
 
