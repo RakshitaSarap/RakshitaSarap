@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **202103042.rakshitasrr@student.xavier.ac.in**
 
-- 📄 Know about my experiences file:///C:/Users/Rakshita%20R.%20Sarap/Downloads/Rakshita_Sarap.pdf
+- 📄 Know about my experiences [Resume_Rakshita_Sarap](file:///C:/Users/Rakshita%20R.%20Sarap/Downloads/Rakshita_Sarap.pdf)
 
 - ⚡ Fun fact **I think I am very friendly and a person you should get to know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/rakshita-sarap/](https://www.linkedin.com/in/rakshita-sarap/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakshita-sarap/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakshita-sarap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakshita-sarap/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
