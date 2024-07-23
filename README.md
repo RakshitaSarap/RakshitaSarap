@@ -1,7 +1,8 @@
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 <h1 align="center">Hi 👋, I'm Rakshita Sarap</h1>
 <h3 align="center">A passionate aspiring Software Engineer from India. I am currently pursuing my Bachelor's of Engineering in Information Technology and I am in my final year right now.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🔭 I’m currently working on **Voilence Detection System using Neural Networks in AI and Deep Learning**
 
